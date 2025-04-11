@@ -2,7 +2,7 @@
   name = "About"
   identifier = "About"
   weight = 100
-  url = "/about2/"
+  url = "/index/"
 
   #[[main]]
   #name = "Projects"

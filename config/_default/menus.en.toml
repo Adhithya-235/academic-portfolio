@@ -4,11 +4,11 @@
   weight = 100
   url = "/index/"
 
-  #[[main]]
-  #name = "Projects"
-  #weight = 200
-  #identifier = "portfolio"
-  #url = "/portfolio/"
+  [[main]]
+  name = "Projects"
+  weight = 200
+  identifier = "portfolio"
+  url = "/portfolio/"
 
   [[main]]
   name = "Research Output"

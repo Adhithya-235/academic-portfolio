@@ -1,0 +1,13 @@
+/* Extra horizontal space between top-bar links --------------- */
+
+/* Modern, one-liner solution (all evergreen browsers) */
+nav .nav__list {
+    /* your theme already sets display:flex; – we just add a gap */
+    gap: 1.25rem;   /* ≈ 20 px – adjust to taste */
+  }
+  
+  /* Fallback for very old flexbox engines that ignore gap        */
+  nav .nav__list-item:not(:last-child) {
+    margin-right: 1.25rem;
+  }
+  

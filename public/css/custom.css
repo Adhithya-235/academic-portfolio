@@ -1,8 +1,0 @@
-.sidebar {
-    width: 200px; /* Adjust this value to your desired width */
-  }
-  
-  /* Optional: If your main content is laid out next to the sidebar, ensure it doesn't overlap */
-  .wrapper__main {
-    margin-left: 220px; /* Give a little extra space for padding */
-  }
